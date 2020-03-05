@@ -1,0 +1,168 @@
+[
+  {
+    "time": "Sat Feb 29 2020 10:01:27",
+    "sensors": [
+      {
+        "temperature_sensors": [
+          {
+            "id_sensor": "5e5a0c476df5c52c6b73449c",
+            "temperature_value": 24
+          },
+          {
+            "id_sensor": "5e5a0c47f0def8f74cf41ba3",
+            "temperature_value": 40
+          },
+          {
+            "id_sensor": "5e5a0c47a395befe16758c14",
+            "temperature_value": 33
+          },
+          {
+            "id_sensor": "5e5a0c47bfa0758ea3986fd7",
+            "temperature_value": -12
+          },
+          {
+            "id_sensor": "5e5a0c47331e0a47b9b020b5",
+            "temperature_value": -9
+          }
+        ]
+      },
+      {
+        "humidity_sensors": [
+          {
+            "id_sensor": "5e5a0c47606ec3b3d1366ca8",
+            "humidity_value": 0.4814
+          },
+          {
+            "id_sensor": "5e5a0c47ca3b99f889dd8ab1",
+            "humidity_value": 0.1859
+          },
+          {
+            "id_sensor": "5e5a0c47613e44d73fb813b0",
+            "humidity_value": 0.3383
+          },
+          {
+            "id_sensor": "5e5a0c476ed3cc9fff2924a5",
+            "humidity_value": 0.3554
+          },
+          {
+            "id_sensor": "5e5a0c4739016100de7e0095",
+            "humidity_value": 0.4793
+          }
+        ]
+      },
+      {
+        "illumination_sensors": [
+          {
+            "id_sensor": "5e5a0c47ef39d7976efa87ee",
+            "illumination_value": 0.673
+          },
+          {
+            "id_sensor": "5e5a0c474b1f004105d94d5c",
+            "illumination_value": 0.133
+          },
+          {
+            "id_sensor": "5e5a0c47edaaa9400d15fc14",
+            "illumination_value": 0.6098
+          },
+          {
+            "id_sensor": "5e5a0c475e61a3c7524e20e9",
+            "illumination_value": 0.9
+          },
+          {
+            "id_sensor": "5e5a0c470809361dd986ff4c",
+            "illumination_value": 0.4963
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "time": "Sat Feb 29 2020 11:01:27",
+    "sensors": [
+      {
+        "temperature_sensors": [
+          {
+            "id_sensor": "5e5a0c479622bf65a2821ffd",
+            "temperature_value": 32
+          },
+          {
+            "id_sensor": "5e5a0c47913fa804ae7f4251",
+            "temperature_value": -10
+          },
+          {
+            "id_sensor": "5e5a0c47c0f6a412d4e34e19",
+            "temperature_value": -4
+          },
+          {
+            "id_sensor": "5e5a0c470495b897741430fc",
+            "temperature_value": 16
+          },
+          {
+            "id_sensor": "5e5a0c47f1a2da03b3d78519",
+            "temperature_value": 34
+          },
+          {
+            "id_sensor": "5e5a0c476f92ff40893baa26",
+            "temperature_value": 28
+          },
+          {
+            "id_sensor": "5e5a0c47e7e838966031740a",
+            "temperature_value": 32
+          }
+        ]
+      },
+      {
+        "humidity_sensors": [
+          {
+            "id_sensor": "5e5a0c47ef5f3bfd3fc3210e",
+            "humidity_value": 0.094
+          },
+          {
+            "id_sensor": "5e5a0c479a9d35055c219db9",
+            "humidity_value": 0.9036
+          },
+          {
+            "id_sensor": "5e5a0c47ca2dce579110f58b",
+            "humidity_value": 0.6613
+          },
+          {
+            "id_sensor": "5e5a0c47514c27974733e762",
+            "humidity_value": 0.0785
+          },
+          {
+            "id_sensor": "5e5a0c475c33781b9c73085d",
+            "humidity_value": 0.0519
+          }
+        ]
+      },
+      {
+        "illumination_sensors": [
+          {
+            "id_sensor": "5e5a0c47b8b0eb496472af7f",
+            "illumination_value": 0.4118
+          },
+          {
+            "id_sensor": "5e5a0c47e08e60f62e9d36a0",
+            "illumination_value": 0.6936
+          },
+          {
+            "id_sensor": "5e5a0c477968d11c9efc1a0b",
+            "illumination_value": 0.7154
+          },
+          {
+            "id_sensor": "5e5a0c47cd9b3c8a3827cd43",
+            "illumination_value": 0.1149
+          },
+          {
+            "id_sensor": "5e5a0c47bbabc725b6ebf911",
+            "illumination_value": 0.1633
+          },
+          {
+            "id_sensor": "5e5a0c472dd1a4125027b54a",
+            "illumination_value": 0.7946
+          }
+        ]
+      }
+    ]
+  }
+]
